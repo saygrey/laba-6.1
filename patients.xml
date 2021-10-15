@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patients>
+  <patient patientid="str1234">
+    <personalinfo>
+      <surname>str1234</surname>
+      <lastname>str1234</lastname>
+      <patronymic>str1234</patronymic>
+      <birthdate>2012-12-13</birthdate>
+      <OMSnumber>str1234</OMSnumber>
+    </personalinfo>
+    <test>
+      <testdate>2012-12-13</testdate>
+      <testtype>str1234</testtype>
+      <labid>str1234</labid>
+    </test>
+	<test>
+      <testdate>2012-12-13</testdate>
+      <testtype>str1234</testtype>
+      <labid>str1234</labid>
+    </test>
+  </patient>
+  <patient patientid="str12345">
+    <personalinfo>
+      <surname>str1234</surname>
+      <lastname>str1234</lastname>
+      <patronymic>str1234</patronymic>
+      <birthdate>2012-12-13</birthdate>
+      <OMSnumber>str1234</OMSnumber>
+    </personalinfo>
+    <test>
+      <testdate>2012-12-13</testdate>
+      <testtype>str1234</testtype>
+      <labid>str1234</labid>
+    </test>
+	<test>
+      <testdate>2012-12-13</testdate>
+      <testtype>str1234</testtype>
+      <labid>str1234</labid>
+    </test>
+  </patient>
+</patients>
